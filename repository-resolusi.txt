@@ -2,3 +2,6 @@ Resolusi
 -Belajar Python dan sql
 -Belajar Library Python
 -Mengikuti Komunitas yang ada 
+-Belajar Git dan GitHub
+-Mengikuti Bootcamp
+-Memperluas Relasi dengan para expert dibidangnya
