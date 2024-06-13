@@ -1,1 +1,2 @@
-
+x = 'Dimas'
+print(x)
