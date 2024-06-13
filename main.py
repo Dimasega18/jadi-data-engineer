@@ -1,2 +1,2 @@
-x = 'Dimas Ganteng'
+x = 'Dimas ganteng buangettt'
 print(x)
