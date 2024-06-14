@@ -1,3 +1,4 @@
+Cita-cita / Resolusi kedepan saya :
 - Ingin belajar Python dan sql
 - Ingin belajar Airflow
 - Ingin belajar library python yang berhubungan dengan data engineer
